@@ -1,9 +1,5 @@
 import Link from "next/link";
-import i1 from "./images/alto.jpeg";
-import i2 from "./images/corolla.jpeg";
-import i3 from "./images/mira.jpg";
-import i4 from "./images/civic.jpeg";
-import i5 from "./images/rating.png";
+import i4 from ".//images/civic.jpeg";
 import Image from "next/image";
 
 export default function Civic() {
